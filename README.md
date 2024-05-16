@@ -133,7 +133,7 @@ Publish the website in the LocalHost.
     </div>
 </div>
 <footer>
-    <p>&copy;2024 ISREAL MOSES B. All rights reserved</p>
+    <p>&copy;2024 pramodh R. All rights reserved</p>
   </footer>
 
 </body>
